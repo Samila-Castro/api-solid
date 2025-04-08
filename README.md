@@ -2,9 +2,9 @@
 GymPass style app.
 
 ## RFs (Requisitos Funcionais) O que o user pode fazer?
-- [ ] Deve ser possível se cadastrar;
- DEve ser possível se autenticar;
-- [ ] Deve ser possível obter o perfil de um usuário logado;
+- [ ]  Deve ser possível se cadastrar;
+- [ ]  Deve ser possível se autenticar;
+- [ ]  Deve ser possível obter o perfil de um usuário logado;
 - [ ]  Deve ser possível obter o número de check-ins realizados pelo usuário logado;
 - [ ]  Deve ser possível o usuário obter seu histórico de check-ins;
 - [ ]  Deve ser possível o usuário buscar academias próximas;
@@ -18,7 +18,7 @@ GymPass style app.
 - [ ] O usuário não pode fazer 2 check-ins no mesmo dia;
 - [ ] O usuário não pode fazer check-in se não estiver perto da academia (100m);
 - [ ] O check-in só pode ser validado após 20 minutos após criado;
-- [ ]O check-in só pode ser validado por administradores;
+- [ ] O check-in só pode ser validado por administradores;
 - [ ] A academia só poder ser cadastrada por administradores;
 ## RNFs (Requisitos não-funcionais)
 - [ ] A senha do usuário precisa estar criptografada;
